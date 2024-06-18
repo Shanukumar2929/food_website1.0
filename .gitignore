@@ -1,0 +1,6 @@
+node_modules
+
+dist
+
+# to not include
+.parcel-cache

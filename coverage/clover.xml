@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1717698579515" clover="3.2.0">
+  <project timestamp="1717698579515" name="All files">
+    <metrics statements="60" coveredstatements="46" conditionals="6" coveredconditionals="4" methods="26" coveredmethods="14" elements="92" coveredelements="64" complexity="0" loc="60" ncloc="60" packages="4" files="11" classes="11"/>
+    <package name="src">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="config.js" path="C:\Users\DELL\OneDrive\Desktop\Namaste React\src\config.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="1668" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="37" coveredstatements="28" conditionals="6" coveredconditionals="4" methods="18" coveredmethods="11"/>
+      <file name="Body.js" path="C:\Users\DELL\OneDrive\Desktop\Namaste React\src\components\Body.js">
+        <metrics statements="21" coveredstatements="14" conditionals="4" coveredconditionals="3" methods="8" coveredmethods="4"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="44" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="50" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="66" count="16" type="stmt"/>
+      </file>
+      <file name="Header.js" path="C:\Users\DELL\OneDrive\Desktop\Namaste React\src\components\Header.js">
+        <metrics statements="9" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="6" coveredmethods="3"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="50" count="0" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="RestaurantCard.js" path="C:\Users\DELL\OneDrive\Desktop\Namaste React\src\components\RestaurantCard.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="16" type="stmt"/>
+        <line num="7" count="16" type="stmt"/>
+      </file>
+      <file name="Shimmer.js" path="C:\Users\DELL\OneDrive\Desktop\Namaste React\src\components\Shimmer.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="7" count="15" type="stmt"/>
+      </file>
+      <file name="sum.js" path="C:\Users\DELL\OneDrive\Desktop\Namaste React\src\components\sum.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.mocks">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dummyLogo.js" path="C:\Users\DELL\OneDrive\Desktop\Namaste React\src\mocks\dummyLogo.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="20" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="3"/>
+      <file name="UserContext.js" path="C:\Users\DELL\OneDrive\Desktop\Namaste React\src\utils\UserContext.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="cartSlice.js" path="C:\Users\DELL\OneDrive\Desktop\Namaste React\src\utils\cartSlice.js">
+        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+      <file name="store.js" path="C:\Users\DELL\OneDrive\Desktop\Namaste React\src\utils\store.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+      <file name="useOnline.js" path="C:\Users\DELL\OneDrive\Desktop\Namaste React\src\utils\useOnline.js">
+        <metrics statements="13" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
